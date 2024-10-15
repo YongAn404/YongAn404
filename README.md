@@ -3,7 +3,7 @@
 ![YongAn404's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongAn404&show_icons=true&theme=tokyonight)
 
 ### 我会的语言
-![Chinese](https://img.shields.io/badge/Chinese-%23ff0d00?style=for-the-badge&label=99%25&labelColor=yellow)
+![Chinese](https://img.shields.io/badge/Chinese-%23ff0d00?style=for-the-badge&label=99%25)
 ![English](https://img.shields.io/badge/English-%230000ff?style=for-the-badge&label=2%25)
 
 
